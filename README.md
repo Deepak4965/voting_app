@@ -24,7 +24,6 @@ This is a backend application for a voting system where users can vote for candi
    ```bash
    git clone https://github.com/Deepak4965/voting_app.git
 
-cd Blogify
 # API Endpoints
 
 ## Authentication
